@@ -1,3 +1,4 @@
+//tg:https://t.me/+8jmGH-bddV00NjY1
 //只要ksjsbcookie
 //格式 三个值用 & 拼接client_salt=XXX&kuaishou.api_st=XXX&did=XXX;
 //加入postUrl防止黑号,格式mod=XXX
